@@ -15,7 +15,6 @@ Chatterly is a simple chat application that allows users to communicate with eac
 1. **Clone the repository**:
    ```
    git clone <repository-url>
-   cd chatterly
    ```
 
 2. **Install dependencies**:
