@@ -1,4 +1,4 @@
-#Chatterly  - Real-Time Chat App
+# Chatterly  - Real-Time Chat App
 
 Chatterly is a simple chat application that allows users to communicate with each other in real time. It utilizes Socket.io for real-time communication, Node.js on the backend, and EJS for templating.
 
