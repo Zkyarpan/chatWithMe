@@ -14,7 +14,7 @@ Chatterly is a simple chat application that allows users to communicate with eac
 ## Setup
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone <https://github.com/Zkyarpan/chatWithMe.git>
    ```
 
 2. **Install dependencies**:
@@ -34,5 +34,3 @@ Chatterly is a simple chat application that allows users to communicate with eac
 - Enter your username and start chatting with other users in real time.
 - Messages are displayed instantly to all connected users.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
